@@ -296,7 +296,8 @@ Courses | Duration | Effort
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Introduction to Big Data](https://www.coursera.org/learn/intro-to-big-data)| 3 weeks | 5-6 hours/week
+[Big Data Decisions](https://www.futurelearn.com/courses/big-data-decisions)| 3 weeks | 2 hours/week
+[Introduction to R for Data Science](https://www.futurelearn.com/courses/data-science)| 4 weeks | 4-5 hours/week
 
 ### Data Mining
 
